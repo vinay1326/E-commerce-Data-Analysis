@@ -27,7 +27,7 @@ The dataset is sourced from **Kaggle** and stored in **SQLite** format with **11
 
 ---
 
-## 🔥 **Data Analysis Process**
+##  **Data Analysis Process**
 ### 1️⃣ **Ask**
 - Define business objectives.  
 - Key questions:
@@ -71,22 +71,6 @@ The dataset is sourced from **Kaggle** and stored in **SQLite** format with **11
 
 ---
 
-## 🚀 **Installation and Execution**
-1️⃣ **Clone the Repository**
-```bash
-git clone <your-repo-link>
-cd e-commerce-analytics-project
-```
-
-2️⃣ **Set Up Environment**
-```bash
-pip install pandas matplotlib seaborn sqlite3
-```
-
-3️⃣ **Run the Project**
-```bash
-python data_analysis.py
-```
 
 
 ---
@@ -94,4 +78,3 @@ python data_analysis.py
 
 ---
 
-✅ **Thank you for viewing!**
